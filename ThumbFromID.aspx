@@ -1,0 +1,1 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="ThumbFromID.aspx.cs" Inherits="ThumbFromID" %>
